@@ -1,1 +1,1 @@
-This the first successfull result of intializing a repositary from vscode 
+This is the first successfull result of intializing a repositary from vscode 
